@@ -1,13 +1,13 @@
 ## Preparation before deployment
-1. Develop your own token contract which will use ERC20Votes.
+1. You should prepare two ERC20 tokens for creating pair.
 
 ## Get started(Operation)
 
 
-1. Deploy your own token contract.
-2. You can mint tokens by calling `_mint` function.
-3. You can delegate voting power to another address by calling `delegate` function or `delegateBySig` function.
-4. You can check voting power by calling `getVotes` and `getPastVotes` functions.
+1. Deploy uniswapV2Factory contract. You have to pass setter address for fee when deploying factory contract.
+2. You can create pair contract by calling `createPair(tokenA, tokenB)`function.
+3. You can change the address for fee by calling `setFeeTo()` and `setFeeToSetter` functions.
+4. You can get any pair addresses by calling `getPair(address, address)` function.
 
 
 
