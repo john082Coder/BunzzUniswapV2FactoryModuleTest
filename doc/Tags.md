@@ -1,2 +1,2 @@
-delegate, votes
+pair, createPair, GetPair, feeToSetter
 
