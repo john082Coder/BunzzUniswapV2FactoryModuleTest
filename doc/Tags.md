@@ -1,2 +1,2 @@
-pair, createPair, GetPair, feeToSetter
+pair, createPair, GetPair, feeTo
 
