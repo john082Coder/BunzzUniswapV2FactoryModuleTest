@@ -22,4 +22,4 @@ It is a Factory contract which allows you to create uniswap liquidity pair contr
 
 ---
 ## Review report
-- [JCoder's report](https://docs.google.com/document/d/1dG83T5-PFgcDAB3SnCAqH74jbK8mpUPUA8nHZXldJB4/edit?usp=sharing)
+- [JCoder's report](https://docs.google.com/document/d/1GVMCxwsumO-aXOk7ZQlvLHxo-ZdYmOL3LwQcJ-cpRrA/edit?usp=sharing)
